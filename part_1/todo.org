@@ -1,0 +1,19 @@
+#+title: Todo
+
+* TODO Day 1 [66%]
+** DONE Watch 3Blue1Brown chapters 1-2
+** DONE Setup Python
+** TODO Python courses (Kaggle)
+*** TODO Python
+*** TODO Pandas
+* TODO Days 2-7 [0%]
+** TODO Course 1 of Andrew Ng's Machine Learning Specialization
+** TODO Watch 3Blue1Brown chapters 3-4
+* TODO Days 3-7
+** TODO Implement linear regression with gradient descent
+** TODO Break it on purpose
+** TODO Extend it to logistic regression
+** TODO Check that your results match scikit-learn's LinearRegression and LogisticRegression
+* TODO Week 2
+** TODO Do Kaggle Learn’s Intro to Machine Learning and Intermediate Machine Learning.
+** TODO Tackle Kaggle’s Titanic competition from start to finish.
